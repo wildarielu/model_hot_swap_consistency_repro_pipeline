@@ -1,0 +1,2 @@
+# consistency_reproducible_pipeline_16a14a1c
+（计算机视觉场景）输入分布改变后，模型热切换的一致性的结论会不会失效？用口径一致性比对给出鲁棒性边界。
